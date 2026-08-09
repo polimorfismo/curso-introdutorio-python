@@ -17,7 +17,7 @@ Material de apoio do Curso Introdutório de Python.
 
 ## Projeto - Calculadora IMC
 * [Estrutura inicial](https://github.com/polimorfismo/curso-introdutorio-python/blob/main/calculadora_imc_estrutura_inicial.py)
-* [Solução](https://github.com/polimorfismo/curso-introdutorio-python/blob/main/calculadora_imc_solucao)
+* [Solução](https://github.com/polimorfismo/curso-introdutorio-python/blob/main/calculadora_imc_solucao.py)
 
 # Módulo 03 - Controle de fluxo e operadores lógicos
 
